@@ -31,7 +31,7 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/><br>
       <sub><b>JavaScript</b></sub><br>
-      <sub>60%</sub>
+      <sub>40%</sub>
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"/><br>
